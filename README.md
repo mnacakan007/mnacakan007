@@ -55,7 +55,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-[![Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=mnacakan007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mnacakan007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
