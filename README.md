@@ -55,6 +55,15 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
+[![Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=mnacakan007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+![Metrics](./github-metrics.svg)
+Here are some ideas to get you started:
+
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mnacakan007&theme=chartreuse-dark)](https://git.io/streak-stats)
 
