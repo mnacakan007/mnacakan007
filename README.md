@@ -59,6 +59,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mnacakan007&theme=chartreuse-dark)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username==mnacakan007&show_icons=true&theme=radical)]
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnacakan007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
