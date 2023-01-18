@@ -67,6 +67,4 @@ Here are some ideas to get you started:
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mnacakan007&theme=react&line_height=40&hide=css"/></a>
 
----
-
 
