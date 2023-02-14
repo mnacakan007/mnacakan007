@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/mnatsakan-manukyan-1a9a129a">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/@mnatsakanmanukyan9104/videos">
+    <a href="https://www.youtube.com/@mnatsakanmanukyan9104/featured">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://www.facebook.com/mnacakan.manukyan.5">
