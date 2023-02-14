@@ -56,7 +56,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ![Metrics](./github-metrics.svg)
-Here are some ideas to get you started:
 
 ---
 
